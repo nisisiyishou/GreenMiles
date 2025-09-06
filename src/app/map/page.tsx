@@ -147,9 +147,9 @@ export default function SimpleWalkingRoute() {
                 suppressMarkers: true,
                 preserveViewport: true,
                 polylineOptions: {
-                  strokeColor: '#00C853',
-                  strokeOpacity: 1,
-                  strokeWeight: 5,
+                  strokeColor: '#6666ff',
+                  strokeOpacity: 0.7,
+                  strokeWeight: 10,
                 },
               }}
             />
