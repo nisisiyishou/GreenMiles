@@ -1,10 +1,17 @@
 # 🌱 Green Miles
 
-**Green Miles** is a sustainability-driven app that rewards you for walking along greenways.  
-Your steps turn into points you can redeem to **plant real trees** and earn eco rewards.  
-Scan trees in **AR** to estimate daily CO₂ absorption and **visit planted forests in VR**.
+![Cover](./public/selfie.jpg)
 
-[![Watch the demo](docs/selfie.jpg)](https://youtu.be/jENykx-CXHI)
+**Green Miles** is a sustainability-driven app that rewards you for walking along greenways.  
+Your steps turn into points that can be redeemed to **plant real trees** or enjoy eco-friendly rewards — directly contributing to a greener planet.  
+
+With **AR** you can scan local ecosystems and trees to learn how much CO₂ they absorb, and with **VR** you can visit the forest where your planted trees grow — making sustainability tangible and personal.
+
+---
+
+## 📸 Demo
+
+[▶️ Watch the demo on YouTube](https://youtu.be/jENykx-CXHI)
 
 ---
 
