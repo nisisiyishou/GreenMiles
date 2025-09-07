@@ -9,9 +9,7 @@ With **AR** you can scan local ecosystems and trees to learn how much CO₂ they
 
 ## 📸 Screenshots / Demo
 
-- [Watch our Demo Video on YouTube](https://youtu.be/jENykx-CXHI)
-
-![Green Miles Demo](https://img.youtube.com/vi/jENykx-CXHI/maxresdefault.jpg)
+- [![Watch the demo](https://img.youtube.com/vi/jENykx-CXHI/maxresdefault.jpg)](https://youtu.be/jENykx-CXHI)
 
 ---
 
